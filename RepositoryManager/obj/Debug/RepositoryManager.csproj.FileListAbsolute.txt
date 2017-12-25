@@ -1,0 +1,6 @@
+E:\Git_Local\RepositoryManager\RepositoryManager\bin\Debug\RepositoryManager.exe.config
+E:\Git_Local\RepositoryManager\RepositoryManager\bin\Debug\RepositoryManager.exe
+E:\Git_Local\RepositoryManager\RepositoryManager\bin\Debug\RepositoryManager.pdb
+E:\Git_Local\RepositoryManager\RepositoryManager\obj\Debug\RepositoryManager.csprojResolveAssemblyReference.cache
+E:\Git_Local\RepositoryManager\RepositoryManager\obj\Debug\RepositoryManager.exe
+E:\Git_Local\RepositoryManager\RepositoryManager\obj\Debug\RepositoryManager.pdb
